@@ -22,6 +22,7 @@ public class Main {
 		int unNbH;
 		int uneSuperficie;
 		
+		System.out.println("askip j'ai modifié mon code mamen");
 		
 		do{
 			System.out.println("\n***** PAYS *****"
