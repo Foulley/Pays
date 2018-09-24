@@ -27,6 +27,9 @@ public class Main {
 		/*c'est un commentaire nul*/
 		/*J'ai encore ajouté un commentaire nul*/
 		
+		/*Commentaire déniz*/
+		/* BOOUUUUM */
+		
 		do{
 			System.out.println("\n***** PAYS *****"
 					+ "\n1 - Affichage tout"
